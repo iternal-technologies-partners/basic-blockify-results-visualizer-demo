@@ -1,0 +1,92 @@
+END USER LICENSE AGREEMENT FOR Blockify Demo App
+
+THIS END USER LICENSE AGREEMENT ("EULA") GOVERNS YOUR USE OF THE Blockify Demo App SOFTWARE (THE "SOFTWARE") FROM ITERNAL TECHNOLOGIES, INC. ("ITERNAL"). PLEASE READ THIS EULA CAREFULLY BEFORE INSTALLING OR USING THE SOFTWARE. BY DOWNLOADING, INSTALLING, ACTIVATING, OR USING THE SOFTWARE, YOU ("YOU" OR "CUSTOMER") AGREE TO BE BOUND BY THIS EULA. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. INCORPORATION OF MASTER RELATIONSHIP AGREEMENT; PRECEDENCE  
+   1.1. Master Relationship Agreement. This EULA is subject to and incorporates by reference the provisions, definitions, disclaimers, indemnities, and limitations of liability included in the Iternal Technologies, Inc. Master Relationship Agreement ("MRA") made available to You at https://iternal.ai/legal/legal-agreements-and-terms/MRA/. For clarity, any capitalized terms not defined in this EULA will have the meanings given to them in the MRA.  
+
+   1.2. Order of Precedence. If there is any direct conflict between the terms of this EULA and the MRA, this EULA shall control as to the specific conflict for the Blockify Demo App Software.  
+
+2. LICENSE GRANT AND USE RESTRICTIONS  
+
+   2.1. License Grant. Subject to Your compliance with this EULA and the MRA, Iternal grants You a perpetual, non-exclusive, non-transferable, non-sublicensable license to install and use one (1) copy of the Blockify Demo App Software, in object code form only, on a single physical device or virtual environment (collectively, "Device") solely for Your internal business purposes. 
+
+   2.2. Device-Specific License; No Transfer. Your license to use Blockify Demo App is specific to the single Device on which it is installed. You may not install, move, or transfer the Software to a different Device, nor transfer the license or assign any rights to the license, without Iternal's prior written consent. 
+
+   2.3. Permitted Number of Installations. Your company is limited to installing the Software on the exact number of Devices for which valid licenses have been purchased. You shall not share the Blockify Demo App installer file with any individual or entity outside of Your company.
+
+   2.4. Right to Audit. Iternal reserves the right (itself or through its representatives) to reasonably audit Your use of the Software to ensure compliance with the EULA, including verifying the number of licensed Devices. Any such audit shall be conducted in accordance with the MRA and relevant laws, and shall be scheduled during normal business hours with reasonable prior notice.
+
+   2.5. No Reverse Engineering or Modification. You shall not, nor permit any third party to:  
+       (a) reverse engineer, decompile, disassemble, decrypt, derive source code from, or otherwise attempt to reconstruct or discover any underlying ideas, algorithms, file formats, or programming interfaces of the Software;  
+       (b) modify, translate, adapt, or create derivative works based on the Software; or  
+       (c) access the Software in order to build or enable a competitive product or service. 
+
+   2.6. Open Source Large Language Model Licenses. Blockify Demo App may utilize or interface with one or more open source large language models ("LLMs"). You acknowledge and agree that You are solely responsible for obtaining and complying with all required licenses governing any open source LLMs used in conjunction with or accessed via Blockify Demo App.  
+
+   2.7. Responsibility for Data Accuracy. Blockify Demo App may generate or process information that can be incomplete, outdated, or factually incorrect due to the use of LLMs. You and Your users are fully responsible for verifying the confidentiality, quality, accuracy, relevancy, and completeness of any data that is input into or output by the Software and confirming the correctness or reliability of any such data. 
+
+   2.8. No Sharing Outside Company. You shall not share, distribute, or reproduce the Software's installer file or related documentation with third parties outside Your company. You shall maintain strict control over the Software to ensure it is used only within Your authorized user group.  
+
+   2.9. Feedback. Any Feedback You provide shall be received and used by Iternal in accordance with the MRA.  
+
+3. UPDATES AND MAINTENANCE  
+
+   3.1. Availability of Updates.  
+
+       (a) Full License Holders. Iternal will make Updates for Blockify Demo App available at no additional cost to fully licensed Customers who have paid the applicable license fees, from the date of the initial purchase until the end of the then-current product version's supported life cycle. It is Your responsibility to download, install, and maintain any Updates.  
+
+       (b) Free Trials. If You are using a provided free trial or unauthorized copy of Blockify Demo App, You are not entitled to receive any Updates.  
+
+   3.2. End of Version Life. The license to Blockify Demo App is perpetual. However, once Iternal designates that a particular product version has reached its end-of-life ("EOL"), Iternal may discontinue making Updates available for that version. It is solely Your responsibility to upgrade Blockify Demo App in a timely manner to ensure continued support and to obtain the benefit of available Updates.  
+
+4. PROPRIETARY RIGHTS AND CONFIDENTIALITY  
+
+   4.1. Reservation of Rights. Except for the rights expressly granted herein, Iternal and its third-party licensors reserve all rights, title, and interest in and to the Software, including any intellectual property rights. No rights are granted by implication or estoppel. 
+
+   4.2. Confidential Information. The Blockify Demo App Software, related documentation, and any proprietary information provided under this EULA are Iternal's Confidential Information. You must treat such information as strictly confidential and in accordance with the confidentiality obligations under the MRA.  
+
+5. LIMITED WARRANTY AND DISCLAIMERS  
+
+   5.1. Limited Warranty. Iternal warrants that the Software will substantially conform to the functional specifications set forth in the applicable documentation for a warranty period of thirty (30) days after initial delivery to You. As Your exclusive remedy for any breach of this warranty, Iternal shall (in its discretion) either (a) use commercially reasonable efforts to correct significant defects without additional charge, or (b) refund the license fees paid for the affected Software upon return or destruction of all copies of the affected Software, provided such breach and return occur within the warranty period.  
+
+   5.2. Outside Scope. This limited warranty does not apply if the Software (a) has been altered, except by Iternal; (b) has been used in breach of this EULA, or (c) has been damaged by improper environment or by misuse, accident, or unauthorized modification.  
+
+   5.3. Disclaimer of Other Warranties. EXCEPT FOR THE LIMITED WARRANTY EXPRESSLY STATED ABOVE, AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, ITERNAL AND ITS AFFILIATES PROVIDE THE SOFTWARE ON AN "AS IS" BASIS AND DISCLAIM ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.  
+
+6. LIMITATION OF LIABILITY  
+
+   6.1. Limitation on Direct Damages. To the extent not otherwise governed by a separate agreement, in no event shall Iternal's aggregate liability for direct damages arising from or relating to this EULA exceed the amount of license fees actually paid by You for the Blockify Demo App Software giving rise to such liability.  
+
+   6.2. Exclusion of Certain Damages. EXCEPT TO THE EXTENT PROHIBITED BY LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE, COVER, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS, LOST REVENUE, OR LOST DATA) ARISING OUT OF OR RELATED TO THIS EULA, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+
+
+7. AUDIT RIGHTS  
+
+   7.1. Compliance Verification. Iternal (or its designated representative) reserves the right to audit or otherwise verify that You are using the Software in accordance with the terms of this EULA, including confirming use only on the number of authorized Devices purchased. Any such audit shall be carried out in accordance with the procedures in Section 2.4 above and in the MRA (including scheduling, confidentiality, and scope).  
+
+8. TERM AND TERMINATION  
+
+   8.1. Term. This EULA commences upon installation or first use of the Software and remains in effect unless terminated in accordance with this Section 8.  
+
+   8.2. Termination. Either party may terminate this EULA for a material breach by the other party that remains uncured thirty (30) days after receipt of written notice. In addition, if You fail to pay any required fees or violate the use restrictions herein, Iternal may terminate this EULA immediately upon written notice (including email).  
+
+   8.3. Effect of Termination. Upon any expiration or termination of this EULA, all rights and licenses granted hereunder immediately terminate, and You must promptly cease all use of the Software and destroy or return all copies, including any documentation. Sections that by their nature should survive shall survive termination of this EULA, including without limitation Sections 4 (Proprietary Rights and Confidentiality), 5 (Limited Warranty and Disclaimers), 6 (Limitation of Liability), and 8.3 (Effect of Termination).  
+
+9. GENERAL PROVISIONS  
+
+   9.1. Governing Terms. This EULA shall be governed by, construed, and enforced in accordance with the same laws and dispute resolution procedures provided in the MRA.  
+
+   9.2. Entire Agreement. This EULA, together with the MRA (including any referenced attachments or addendums), constitutes the entire agreement between the parties with respect to the subject matter and supersedes all prior negotiations, communications, or agreements, whether written or oral, regarding such subject matter.  
+
+   9.3. Assignment. You may not assign or delegate this EULA in whole or in part without the prior written consent of Iternal. Any unauthorized assignment shall be void.  
+
+   9.4. Export Control. You agree to comply fully with all applicable export control and economic sanctions laws and regulations as further outlined in the MRA.  
+
+   9.5. Severability. If any provision of this EULA is held to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.  
+
+   9.6. Waiver. No waiver by either party of any breach of this EULA shall be deemed to be a waiver of any preceding or succeeding breach.  
+   
+   9.7. Modifications. Any modification or amendment to this EULA must be in writing and signed by duly authorized representatives of both parties.  
+
+BY INSTALLING OR USING THE Blockify Demo App SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS EULA, INCLUDING THE INCORPORATED PROVISIONS OF THE MASTER RELATIONSHIP AGREEMENT, AND AGREE TO BE BOUND BY ALL SUCH TERMS.  
