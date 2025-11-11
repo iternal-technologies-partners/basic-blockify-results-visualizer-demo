@@ -1,0 +1,177 @@
+/* "dev": "npx tailwindcss -i ./src/input.css -o ./public/output.css --watch" */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .main-heading {
+        @apply text-3xl font-medium text-center text-light-mode-highlight dark:text-white;
+    }
+    .sub-heading {
+        @apply text-xl font-medium text-center text-light-mode-highlight dark:text-white;
+    }
+    .ms-btn {
+        @apply w-32 h-10 flex items-center gap-1.5;
+    }
+    .input-label {
+        @apply text-left text-sm font-medium text-light-mode-texture dark:text-dark-mode-highlight;
+    }
+    .input-field {
+        @apply flex w-full px-1 py-2 rounded-md border border-light-mode-border dark:border-dark-mode-border text-light-mode-texture dark:text-white bg-white dark:bg-transparent;
+    }
+    .input-checkbox-label {
+        @apply text-light-mode-texture dark:text-dark-mode-texture;
+    }
+    .input-checkbox {
+        @apply mt-0.5 w-4 h-4 px-1 py-2 rounded-md accent-light-mode-highlight dark:accent-dark-mode-highlight;
+    }
+    .input-select-field {
+        @apply flex w-full py-2 rounded-md border border-light-mode-border dark:border-dark-mode-border text-light-mode-texture dark:text-white bg-white dark:bg-transparent;
+    }
+    .input-select-field.tabs-select{
+        @apply focus:outline-none py-1.5 border-light-mode-border dark:border-light-mode-texture text-light-mode-texture bg-white dark:bg-transparent
+    } 
+    input[type='range'].input-range-field {
+        @apply bg-light-mode-border dark:bg-dark-mode-border !important;
+    }
+    .input-select-field option {
+        @apply dark:bg-dark-mode-background
+    } 
+    .input-select-field.tabs-select option {
+        @apply dark:bg-dark-mode-background dark:text-white
+    } 
+    .highlight-and-bg {
+        @apply bg-light-mode-highlight dark:bg-dark-mode-highlight text-white dark:text-dark-mode-background !important;
+    }
+    input[type='range']::-webkit-slider-thumb {
+        @apply border-4 border-light-mode-highlight dark:border-dark-mode-highlight !important;
+    }
+    .custom-select__control {
+        @apply flex w-full py-2 rounded-md border border-light-mode-border dark:border-dark-mode-border text-light-mode-texture dark:text-white bg-white dark:bg-dark-mode-background !important;
+
+    }
+
+    .main-container {
+        @apply relative flex flex-col-reverse lg:flex-row h-screen w-full overflow-hidden;
+    }
+    .main-wrapper {
+        @apply relative flex flex-col justify-between bg-white dark:bg-dark-mode-background lg:mt-14 lg:pb-16 w-full lg:w-1/2 h-full overflow-y-auto;
+    }
+    .main-container.one-tab-only .main-wrapper {
+        @apply mt-3
+    }
+    .wrapper-full-screen {
+        @apply relative flex flex-col justify-between bg-white dark:bg-dark-mode-background lg:pb-16 pt-12 lg:pt-0 lg:mt-14 px-4 w-full min-h-screen border overflow-y-auto;
+    }
+    .main-page-heading {
+        @apply text-3xl font-medium text-center py-5 text-dark-mode-texture
+    }
+
+    .border-top {
+        @apply highlight-and-bg h-[50px] lg:h-[15px] w-full;
+    }
+    .footer {
+        @apply w-full text-center pb-2 text-xs md:text-sm text-dark-mode-background dark:text-dark-mode-texture;
+    }
+    .footer-link {
+        @apply pl-1 hover:text-light-mode-highlight dark:hover:text-dark-mode-highlight;
+    }
+    .form-container {
+        @apply flex flex-col gap-5 p-5 max-w-xl mx-auto;
+    }
+    .col-group {
+        @apply flex flex-col gap-3
+    }
+    .input-fields-wrapper {
+        @apply border-t dark:border-dark-mode-highlight;
+    }
+    .input-col-group {
+        @apply flex flex-col gap-2;
+    }
+    .input-row-group {
+        @apply flex items-center gap-2;
+    }
+
+    .content-wrapper {
+        @apply max-w-xl mx-auto w-full flex flex-col gap-2 px-3;
+    }
+    .customer-logo {
+        @apply mx-auto w-24 md:w-40 h-8 lg:h-16 pb-3;
+    }
+    .user-message {
+        @apply text-center text-sm font-medium text-dark-mode-background dark:text-dark-mode-highlight;
+    }
+
+    .user-actions {
+        @apply flex flex-col md:flex-row items-center justify-center gap-7 mt-5;
+    }
+    .full-page-wrapper {
+        @apply relative flex flex-col gap-5 justify-between bg-white dark:bg-dark-mode-background w-full h-screen;
+    }
+
+    .video-container {
+        @apply relative h-[450px] lg:h-full w-full lg:w-1/2 flex flex-col items-center overflow-visible;
+    }
+    .powered-by-styles {
+        @apply bg-white dark:bg-dark-mode-background lg:bg-transparent py-3 w-full lg:w-auto absolute lg:right-5 lg:top-16;
+    }
+    .video-player {
+        @apply absolute top-16 w-[500px] lg:w-[350px] xl:w-[510px] h-[200px] lg:h-[300px];
+    }
+    .info-box {
+        @apply absolute top-16 w-[500px] lg:w-[350px] xl:w-[510px] h-[200px] lg:top-[calc(50%+100px)] bg-black/50 text-white border border-light-mode-highlight dark:border-dark-mode-highlight flex-col gap-4 p-5;
+    }
+    .customer-logo-styles {
+        @apply bg-light-mode-highlight dark:bg-dark-mode-highlight flex items-center justify-center absolute left-0.5 lg:left-auto top-0.5 lg:top-auto lg:right-5 lg:bottom-5 w-24 lg:w-40 h-8 lg:h-16;
+    }
+    .tabs-container {
+        @apply flex items-center overflow-x-auto bg-light-mode-background dark:bg-dark-mode-background
+    }
+    .tab-button{
+        @apply px-6 py-2 bg-light-mode-background dark:bg-dark-mode-background text-light-mode-highlight dark:text-dark-mode-highlight border border-light-mode-highlight dark:border-dark-mode-highlight
+    }
+    .tab-button.active{
+        @apply bg-light-mode-highlight dark:bg-dark-mode-highlight text-light-mode-background dark:text-dark-mode-background
+    }
+
+    .collapsable-item {
+        @apply text-dark-mode-texture border border-light-mode-highlight dark:border-dark-mode-highlight transition duration-300 ease-in-out
+    }
+    .collapsable-button {
+        @apply w-full py-4 px-5 flex items-center justify-between cursor-pointer bg-gradient-to-b from-light-mode-highlight to-light-mode-highlight/80 dark:from-[#383A48] dark:to-[#1B1E31]
+    }
+    .collapsable-content {
+        @apply bg-transparent text-dark-mode-texture p-5 border-t border-light-mode-highlight dark:border-dark-mode-highlight transition duration-300 ease-in-out
+    }
+    .colored-progress-bar{
+        @apply bg-gradient-to-r from-[#007ec7] to-[#009ef9] dark:from-[#DFA21E] dark:to-[#88671f]
+    }
+
+    .avatar {
+        @apply flex flex-shrink-0 items-center justify-center h-10 w-10 rounded-full uppercase;
+    }
+    .message-pill {
+        @apply relative rounded-2xl px-3 py-1.5;
+    }
+    .message-pill-arrow {
+        @apply absolute -mt-1 top-1/2 transform -translate-x-1/2 rotate-45 w-2 h-2;
+    }
+    .outlined-box {
+        @apply text-dark-mode-texture border border-light-mode-highlight dark:border-dark-mode-highlight transition duration-300 ease-in-out
+    }
+
+    .chat-box > :first-child { margin-top: auto }
+}
+
+:root {
+    --dark-mode-background: #171b2f;
+    --dark-mode-highlight: #dfa21e;
+    --dark-mode-texture: #fff;
+    --dark-mode-border: #dfa21e;
+    --light-mode-background: #fff;
+    --light-mode-highlight: #007EC7;
+    --light-mode-texture: #000000;
+    --light-mode-border: #d1d5db;
+}

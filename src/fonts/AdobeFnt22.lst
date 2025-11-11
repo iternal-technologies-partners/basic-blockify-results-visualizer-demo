@@ -1,0 +1,139 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/ritaaraujo/Desktop/1_36346785_Dell_Evo_Challenger_LSEG_UK_v2/Document fonts/AdobeFnt22.lst
+FileLength:3000
+FileModTime:647969658
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DellReplica-Bold
+FamilyName:Dell Replica
+StyleName:Bold
+MenuName:Dell Replica
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Dell Replica Bold
+WritingScript:Roman
+OutlineFileName:/Users/ritaaraujo/Desktop/1_36346785_Dell_Evo_Challenger_LSEG_UK_v2/Document fonts/DellReplica-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95504
+FileModTime:487249778
+NameArray:0,Mac,4,Dell Replica Bold
+NameArray:0,Win,1,Dell Replica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DellReplica-Heavy
+FamilyName:Dell Replica
+StyleName:Heavy
+MenuName:Dell Replica Heavy
+StyleBits:0
+WeightClass:850
+WidthClass:5
+AngleClass:0
+FullName:Dell Replica Heavy
+WritingScript:Roman
+OutlineFileName:/Users/ritaaraujo/Desktop/1_36346785_Dell_Evo_Challenger_LSEG_UK_v2/Document fonts/DellReplica-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93760
+FileModTime:487249820
+NameArray:0,Mac,4,Dell Replica Heavy
+NameArray:0,Win,1,Dell Replica Heavy
+NameArray:0,Win,16,Dell Replica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DellReplica-Light
+FamilyName:Dell Replica
+StyleName:Light
+MenuName:Dell Replica Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Dell Replica Light
+WritingScript:Roman
+OutlineFileName:/Users/ritaaraujo/Desktop/1_36346785_Dell_Evo_Challenger_LSEG_UK_v2/Document fonts/DellReplica-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94332
+FileModTime:487249846
+NameArray:0,Mac,4,Dell Replica Light
+NameArray:0,Win,1,Dell Replica Light
+NameArray:0,Win,16,Dell Replica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DellReplica-Regular
+FamilyName:Dell Replica
+StyleName:Regular
+MenuName:Dell Replica
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Dell Replica
+WritingScript:Roman
+OutlineFileName:/Users/ritaaraujo/Desktop/1_36346785_Dell_Evo_Challenger_LSEG_UK_v2/Document fonts/DellReplica-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94968
+FileModTime:487249874
+NameArray:0,Mac,4,Dell Replica
+NameArray:0,Win,1,Dell Replica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/ritaaraujo/Desktop/1_36346785_Dell_Evo_Challenger_LSEG_UK_v2/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:647772975
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
