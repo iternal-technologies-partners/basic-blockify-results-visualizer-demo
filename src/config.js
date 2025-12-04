@@ -19,7 +19,7 @@ const CONFIG = {
   LLM_API_PATH: '/v1/chat/completions',
   
   // Model name (can be overridden by your LLM server)
-  DEFAULT_MODEL: 'jbh4/Meta-Llama-3.1-8B-Instruct-Reference-8b-v2.0.1-ingest-c813d455',
+  DEFAULT_MODEL: 'blockify-ingest',
   
   // Request parameters
   DEFAULT_TEMPERATURE: 0.5,
