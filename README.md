@@ -43,4 +43,4 @@ Open [http://localhost:3000](http://localhost:3000)
 
 If you encounter a Cross-Origin Resource Sharing (CORS) error in your browser console, follow these steps to resolve the issue:
 1. Stop and restart the development server.
-2. Perform a hard refresh of the browser page (typically $\text{`Ctrl + Shift + R`}$ on Windows/Linux or $\text{`Cmd + Shift + R`}$ on macOS) to clear the cache and reload the application.
+2. Perform a hard refresh of the browser page to clear the cache and reload the application.
