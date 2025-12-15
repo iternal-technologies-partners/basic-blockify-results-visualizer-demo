@@ -38,3 +38,9 @@ Open [http://localhost:3000](http://localhost:3000)
 1. Paste text into the input area
 2. Click "Start Blockify"
 3. See results in the two-column layout
+
+## Troubleshooting
+
+If you encounter a Cross-Origin Resource Sharing (CORS) error in your browser console, follow these steps to resolve the issue:
+1. Stop and restart the development server.
+2. Perform a hard refresh of the browser page (typically $\text{`Ctrl + Shift + R`}$ on Windows/Linux or $\text{`Cmd + Shift + R`}$ on macOS) to clear the cache and reload the application.
